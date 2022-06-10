@@ -1,2 +1,2 @@
 # sincera
-Honest answers from a very sassy fortune teller
+Respostas sinceras de uma cigana de saco cheio de tudo e todos.
